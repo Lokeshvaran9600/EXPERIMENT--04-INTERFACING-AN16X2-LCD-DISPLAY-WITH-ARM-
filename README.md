@@ -342,8 +342,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![unnamed](https://github.com/user-attachments/assets/b0d67e8c-9ef3-4028-b0df-06739e4960ed)
 
- 
- <img width="790" height="692" alt="image" src="https://github.com/user-attachments/assets/93b42a62-3f63-4002-b414-cd8b8297ca0e" />
+![unnamed](https://github.com/user-attachments/assets/6313e8a3-fa91-44bf-a509-2796b1ddbebb)
+
 
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
