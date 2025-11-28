@@ -240,10 +240,10 @@ int main(void)
 void lcd_display(void)
 {
     Lcd_cursor(&lcd, 0, 1);
-    Lcd_string(&lcd, "ARULARASI U");
+    Lcd_string(&lcd, "LOKESHVARAN S");
 
     Lcd_cursor(&lcd, 1, 1);
-    Lcd_string(&lcd, "212223100002");
+    Lcd_string(&lcd, "212223040105");
 }
 
 /**
